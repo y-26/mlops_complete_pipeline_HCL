@@ -1,0 +1,14 @@
+2025-07-27 23:56:52,373 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-27 23:56:52,374 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-28 00:04:11,532 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-28 00:04:11,533 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-28 00:04:47,926 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-28 00:04:47,926 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-28 00:06:11,596 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-28 00:06:11,597 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-28 00:11:57,916 - data_ingestion - ERROR - File not found: params.yaml
+2025-07-28 00:11:57,916 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-07-28 00:13:51,129 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-07-28 00:13:52,716 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/y-26/mlops_complete_pipeline_HCL/refs/heads/main/spam.csv
+2025-07-28 00:13:52,719 - data_ingestion - DEBUG - Data preprocessing completed
+2025-07-28 00:13:52,756 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
