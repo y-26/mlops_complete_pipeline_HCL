@@ -12,3 +12,15 @@
 2025-07-28 00:13:52,716 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/y-26/mlops_complete_pipeline_HCL/refs/heads/main/spam.csv
 2025-07-28 00:13:52,719 - data_ingestion - DEBUG - Data preprocessing completed
 2025-07-28 00:13:52,756 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-07-28 00:43:18,064 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-07-28 00:43:18,956 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/y-26/mlops_complete_pipeline_HCL/refs/heads/main/spam.csv
+2025-07-28 00:43:18,957 - data_ingestion - DEBUG - Data preprocessing completed
+2025-07-28 00:43:18,971 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-07-28 00:44:41,343 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-07-28 00:44:42,060 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/y-26/mlops_complete_pipeline_HCL/refs/heads/main/spam.csv
+2025-07-28 00:44:42,061 - data_ingestion - DEBUG - Data preprocessing completed
+2025-07-28 00:44:42,073 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-07-28 01:05:23,451 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-07-28 01:05:24,727 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/y-26/mlops_complete_pipeline_HCL/refs/heads/main/spam.csv
+2025-07-28 01:05:24,729 - data_ingestion - DEBUG - Data preprocessing completed
+2025-07-28 01:05:24,741 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
